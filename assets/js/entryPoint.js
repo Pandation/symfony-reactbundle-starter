@@ -1,1 +1,1 @@
-import "./components/registration";
+import "./registration";
